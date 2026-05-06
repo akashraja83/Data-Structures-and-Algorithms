@@ -1,7 +1,7 @@
 # Data-Structures-and-Algorithms
 📚 A structured collection of Data Structures &amp; Algorithms implemented in Java — with explanations, diagrams, and LeetCode problems.
-
 <br>
+
 ![Java](https://img.shields.io/badge/Java-17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![DSA](https://img.shields.io/badge/Topic-Data%20Structures%20%26%20Algorithms-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
