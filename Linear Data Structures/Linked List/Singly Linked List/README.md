@@ -28,7 +28,6 @@
 - [Project Structure](#-project-structure)
 - [Operations & Complexity](#-operations--complexity)
 - [Implementations](#-implementations)
-- [Problems Solved](#-problems-solved)
 - [Array vs Linked List](#-array-vs-linked-list)
 - [Real World Applications](#-real-world-applications)
 - [How to Run](#-how-to-run)
